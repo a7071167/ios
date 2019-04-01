@@ -23,7 +23,6 @@
 @protocol AssimilationInfo <NSObject>
 @property (nonatomic, readonly) NSInteger years;
 @property (nonatomic, readonly) NSInteger months;
-@property (nonatomic, readonly) NSInteger weeks;
 @property (nonatomic, readonly) NSInteger days;
 @property (nonatomic, readonly) NSInteger hours;
 @property (nonatomic, readonly) NSInteger minutes;
